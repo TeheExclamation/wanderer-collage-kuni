@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(29, 36, 54);
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: grey;
+    text-align: center;
+    
+}
+
+img{
+    width: 25%;
+    padding-left: 120px;
+    padding-bottom: 25px;
+}
